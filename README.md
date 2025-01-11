@@ -2,4 +2,4 @@
 Mario Walking
 
 -not my drawings
--different movements of mario waling left-right
+-different movements of mario walking left-right
