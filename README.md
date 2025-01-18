@@ -20,11 +20,9 @@ Here are some of the walking animations included in the repository:
 
 ### 1. **Walking Left**  
    ![Walking Left](mario_stanga_4.jpg)  
-   _A dynamic portrayal of Mario walking left with a confident stride._
 
 ### 2. **Walking Right**  
-   ![Walking Right](mario_dreapta_7.jpg)  
-   _Mario in motion, heading to the right with his signature moves._
+   ![Walking Right](mario_dreapta_1.jpg)  
 
 ---
 
